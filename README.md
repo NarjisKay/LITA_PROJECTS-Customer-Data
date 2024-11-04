@@ -83,7 +83,29 @@ SUBSCRIPTION DURATION = SubscriptionEnd - SubscriptionStart.
 
 ### Visual Analysis and Inference
 
+![Customer Data Excel](https://github.com/user-attachments/assets/830e2159-1f68-4cdb-b3b6-bedf05b91810)
 
+![Customer Data Excel (7)](https://github.com/user-attachments/assets/ac3d784a-4cd3-4bc5-bc2c-30be004ae889)
+
+![Customer Data Excel (6)](https://github.com/user-attachments/assets/61578f35-b222-47b9-818e-adbe6026d9e0)
+
+![Customer Data Excel (5)](https://github.com/user-attachments/assets/3a1e1e3c-cb9b-4ebe-8ba9-85b8640e962f)
+
+![Customer Data Excel (4)](https://github.com/user-attachments/assets/db0b6ba6-aca4-4da5-9eba-a7e8140fe7a1)
+
+![Customer Data Excel (3)](https://github.com/user-attachments/assets/e6c778a6-1728-4fef-ad4d-903beae09124)
+
+![Customer Data Excel (2)](https://github.com/user-attachments/assets/4511eb4b-ce34-455f-a970-a5a73f91562b)
+
+![Customer Data SQL (4)](https://github.com/user-attachments/assets/12969e41-455b-4fed-9f0b-de88ac3aa4b9)
+
+![Customer Data SQL (3)](https://github.com/user-attachments/assets/81c743f1-61af-4cd0-94ff-46becb6cf4c2)
+
+![Customer Data SQL (2)](https://github.com/user-attachments/assets/a6bde63c-d081-455f-9f72-679afebf06c9)
+
+![Customer Data SQL](https://github.com/user-attachments/assets/aa56eb39-b208-4598-a287-1fd6e2235667)
+
+![Customer Data SQL (5)](https://github.com/user-attachments/assets/bee43f3f-20b1-496e-ae11-b314bc9ee9c5)
 
 
 
