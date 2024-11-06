@@ -119,6 +119,8 @@ SUBSCRIPTION DURATION = SubscriptionEnd - SubscriptionStart.
 
 ![Customer Data SQL (2)](https://github.com/user-attachments/assets/07513478-4a37-4e0b-ba45-d423fd667303)
 
+
+
 #### Inference.
 
 The analysis revealed that the most popular subscription type is the Basic plan, with the Standard plan being the least popular. 
