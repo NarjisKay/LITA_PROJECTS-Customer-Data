@@ -145,6 +145,8 @@ In particular, the North had the highest number of cancellations (5,067), slight
 
 In terms of revenue, the East led with #16,958,763, followed by the South at #16,899,064, the West at #16,864,376, and the North at #16,817,972.
 
+The customer with the highest revenue was found to be Liam at #3,437,444 and Maria is the customer with the lowest revenue at #3,326,162.  
+
 The average subscription duration across all regions was calculated to be 369.92 days. 
 
 
