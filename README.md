@@ -105,6 +105,9 @@ SUBSCRIPTION DURATION = SubscriptionEnd - SubscriptionStart.
 ![Customer Data Excel (2)](https://github.com/user-attachments/assets/4511eb4b-ce34-455f-a970-a5a73f91562b)
 
 
+![Screenshot (70)](https://github.com/user-attachments/assets/b58cc828-e4d1-41aa-a664-128cc347be44)
+
+
 ![Customer Data SQL](https://github.com/user-attachments/assets/1ead5cad-01f3-4519-88fe-45ba9efe7b9f)
 
 
@@ -118,6 +121,12 @@ SUBSCRIPTION DURATION = SubscriptionEnd - SubscriptionStart.
 
 
 ![Customer Data SQL (2)](https://github.com/user-attachments/assets/07513478-4a37-4e0b-ba45-d423fd667303)
+
+
+![Screenshot (73)](https://github.com/user-attachments/assets/12c2444e-4a4b-4820-a7fb-240ac5a5103c)
+
+
+![Screenshot (72)](https://github.com/user-attachments/assets/2c3f897e-1ac2-42de-9bb8-5edcb99c3c59)
 
 
 
